@@ -1,0 +1,9 @@
+{
+	"name": "masterclass-adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "925cab33-3180-4421-a7ea-1297f548a970",
+		"tenantId": "6f4609f9-c00f-4ffc-a0cd-4324311253e6"
+	}
+}
